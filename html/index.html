@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JSStudy</title>
+
+    <style>
+        body,div,dl,dt,dd{
+            margin: 0;
+            padding: 0;
+        }
+
+        a:link,a:visited{
+            color: #FFF;
+            text-decoration: none;
+        }
+
+        a:hover{
+            text-decoration: underline;
+        }
+
+        #header{
+            text-align: center;
+            padding: 40px;
+            font-size: 3em;
+        }
+
+        #wrap{
+            width: 350px;
+            background: #FFF;
+            border: 12px solid #EEE;
+            border-radius: 10px;
+            margin: 10px auto 0;
+            padding: 5px 5px 4px;
+        }
+
+        #wrap dl{
+            color: #FFF;
+            overflow: hidden;
+            background: #7CF;
+        }
+
+        #wrap dt,#wrap dd{
+            padding-left:15px;
+            border-bottom:1px solid #FFF;
+        }
+        #wrap dt{
+            cursor:pointer;
+            font-size:14px;
+            background:#9C0;
+            line-height:30px;
+            font:700 14px/30px Tahoma;
+        }
+        #wrap dt.current{
+            background:#09F;
+        }
+        #wrap dd{
+            background:#7CF;
+            line-height:25px;
+            font:12px/25px Tahoma;
+        }
+        #copyright{color:#999;
+            width:374px;
+            text-align:right;
+            font:12px/1.5 Tahoma;
+            margin:5px auto 0;
+        }
+    </style>
+
+    <script src="../js/CreateList.js"></script>
+    <script>
+        window.onload = function() {
+            new CreateList([
+                {
+                    project: [
+                        {
+                        text: "CSS特效"
+                        },
+                        {
+                            text: "jquery简介",
+                            href: "lesson1/01.html"
+                        }
+                    ]
+                },
+                {
+                    project: [
+                        {
+                          text: "JS特效"
+                        },
+                        {
+                            text: "基于元素名选取元素",
+                            href: "lesson2/01.html"
+                        },
+                        {
+                            text: "id 选择器",
+                            href: "lesson2/02.html"
+                        }
+                    ]
+                }
+            ]);
+            (function() {
+                var oDiv = document.createElement("div");
+                oDiv.style.width = "384px";
+                oDiv.style.textAlign = "right";
+                oDiv.style.margin = "5px auto 10px";
+                document.body.appendChild(oDiv)
+            })()
+        };
+    </script>
+</head>
+<body>
+
+</body>
+</html>
