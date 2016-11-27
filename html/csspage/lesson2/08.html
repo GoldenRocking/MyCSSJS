@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS 2D旋转</title>
+
+    <style>
+        .a
+        {
+            width:200px;
+            height:100px;
+            background-color:yellow;
+            /* Rotate div */
+            transform:rotate(30deg);
+            -ms-transform:rotate(30deg); /* IE 9 */
+            -webkit-transform:rotate(30deg); /* Safari and Chrome */
+        }
+
+        .list
+        {
+            width:100px;
+            height:75px;
+            background-color:red;
+            border:1px solid black;
+        }
+
+        #div2
+        {
+            transform:translate(50px,100px);
+            -ms-transform:translate(50px,100px); /* IE 9 */
+            -webkit-transform:translate(50px,100px); /* Safari and Chrome */
+        }
+
+        #div3
+        {
+            transform:rotate(30deg);
+            -ms-transform:rotate(30deg); /* IE 9 */
+            -webkit-transform:rotate(30deg); /* Safari and Chrome */
+        }
+
+        #div4{
+            margin: 150px;
+            width: 200px;
+            height: 100px;
+            background-color: yellow;
+            border: 1px solid black;
+            border: 1px solid black;
+            -ms-transform: scale(2,3); /* IE 9 */
+            -webkit-transform: scale(2,3); /* Safari */
+            transform: scale(2,3); /* 标准语法 */
+        }
+
+        #div5
+        {
+            transform:skew(30deg,20deg);
+            -ms-transform:skew(30deg,20deg); /* IE 9 */
+            -webkit-transform:skew(30deg,20deg); /* Safari and Chrome */
+        }
+
+        #div6
+        {
+            transform:matrix(0.866,0.5,-0.5,0.866,0,0);
+            -ms-transform:matrix(0.866,0.5,-0.5,0.866,0,0); /* IE 9 */
+            -webkit-transform:matrix(0.866,0.5,-0.5,0.866,0,0); /* Safari and Chrome */
+        }
+    </style>
+
+
+</head>
+<body>
+
+<div class="a">Hello</div>
+
+<p style="margin-top: 50px">
+    translate()方法，根据左(X轴)和顶部(Y轴)位置给定的参数，从当前元素位置移动。
+</p>
+
+<div class="list">Hello. This is a DIV element.</div>
+
+<div class="list" id="div2">Hello. This is a DIV element.</div>
+
+<p style="margin-top: 150px">
+    rotate()方法，在一个给定度数顺时针旋转的元素。负值是允许的，这样是元素逆时针旋转。
+</p>
+<div class="list">你好。这是一个 DIV 元素。</div>
+
+<div class="list" id="div3">你好。这是一个 DIV 元素。</div>
+
+<p style="margin-top: 50px">
+    scale()方法，该元素增加或减少的大小，取决于宽度（X轴）和高度（Y轴）的参数：
+</p>
+<div id="div4">
+    div 元素的宽带是原始大小的两倍，高度是原始大小的三倍。
+</div>
+
+<p style="margin-top: 100px">
+    skewX(angle);表示只在X轴(水平方向)倾斜。
+    skewY(angle);表示只在Y轴(垂直方向)倾斜。
+
+</p>
+<div class="list">Hello. This is a DIV element.</div>
+
+<div class="list" id="div5">Hello. This is a DIV element.</div>
+
+<p style="margin-top: 100px">
+    matrix()方法和2D变换方法合并成一个。
+    matrix 方法有六个参数，包含旋转，缩放，移动（平移）和倾斜功能。
+</p>
+
+<div class="list">Hello. This is a DIV element.</div>
+
+<div class="list" id="div6">Hello. This is a DIV element.</div>
+
+
+</body>
+</html>
