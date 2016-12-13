@@ -2,8 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332fa617-57dc-49ab-9675-5eb0ca638ec7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/csspage/lesson2/09.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/csspage/lesson2/10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/jspage/lesson1/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/jspage/lesson1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/jspage/lesson1/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson1/01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson1/02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson1/03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson1/04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson1/05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson1/06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lesson2/12.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
     </list>
@@ -30,62 +84,49 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5">
-              <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47826087">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state vertical-scroll-proportion="-16.166666">
+              <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="09.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/09.html">
+        <entry file="file://$PROJECT_DIR$/html/lesson2/09.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.791666">
-              <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+            <state vertical-scroll-proportion="5.625">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/08.html">
+      <file leaf-file-name="10.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/lesson2/10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-36.791668">
+              <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/07.html">
+      <file leaf-file-name="11.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/lesson2/11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-15.625">
+              <caret line="83" column="50" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/lesson2/12.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5232558">
+              <caret line="89" column="57" selection-start-line="89" selection-start-column="57" selection-end-line="89" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,6 +136,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -117,8 +160,14 @@
         <option value="$PROJECT_DIR$/html/csspage/lesson2/07.html" />
         <option value="$PROJECT_DIR$/html/csspage/lesson2/08.html" />
         <option value="$PROJECT_DIR$/html/csspage/lesson2/09.html" />
-        <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/html/csspage/lesson2/10.html" />
+        <option value="$PROJECT_DIR$/html/jspage/lesson1/index.html" />
+        <option value="$PROJECT_DIR$/html/jspage/lesson1/css/style.css" />
+        <option value="$PROJECT_DIR$/html/jspage/lesson1/js/index.js" />
+        <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/html/lesson2/10.html" />
+        <option value="$PROJECT_DIR$/html/lesson2/11.html" />
+        <option value="$PROJECT_DIR$/html/lesson2/12.html" />
       </list>
     </option>
   </component>
@@ -132,8 +181,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="23" />
+    <option name="x" value="101" />
+    <option name="y" value="28" />
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
@@ -162,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,10 +257,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="csspage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="lesson2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -231,13 +275,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="csspage" />
+              <option name="myItemId" value="jspage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,16 +290,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.3.1/bin/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/html/csspage/lesson2" />
-      <recent name="$PROJECT_DIR$/html/lesson1" />
-      <recent name="$PROJECT_DIR$/html/lesson1/css" />
-      <recent name="$PROJECT_DIR$/html/lesson1/js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/csspage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/html/lesson2" />
+      <recent name="$PROJECT_DIR$/html/lesson1" />
+      <recent name="$PROJECT_DIR$/html/jspage/lesson1/js" />
+      <recent name="$PROJECT_DIR$/html/csspage/lesson2" />
     </key>
   </component>
   <component name="RunManager">
@@ -301,10 +348,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="23" width="1440" height="832" extended-state="0" />
+    <frame x="101" y="28" width="1440" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17739628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -339,6 +386,112 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -598,24 +751,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/09.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.791666">
+        <state vertical-scroll-proportion="0.0">
           <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
-          <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/csspage/lesson2/10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47826087">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/jspage/lesson1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-56.875">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/jspage/lesson1/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/jspage/lesson1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.166666">
+          <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/lesson2/09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.625">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/lesson2/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-36.791668">
+          <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/lesson2/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="83" column="50" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/lesson2/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5232558">
+          <caret line="89" column="57" selection-start-line="89" selection-start-column="57" selection-end-line="89" selection-end-column="57" />
           <folding />
         </state>
       </provider>
